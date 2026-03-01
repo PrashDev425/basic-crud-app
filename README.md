@@ -131,16 +131,29 @@ Project documentation explaining setup, usage, and security notes.
 
 ## Run the Application
 
-- Place project folder inside:
-    - `htdocs` (**XAMPP**)
+### 1. Download & Place Files
+- **Copy your project folder** into ``C:\xampp\htdocs\`` (e.g., ``basic-crud-app``).
 
-- Start **Apache** and **MySQL**
-
-- Open browser:
-
+### 2. Update `config.php`
+- Open ``config.php`` and set the ``BASE_URL``:
+  ```php
+  <?php
+  define('BASE_URL', "http://localhost/basic-crud-app/");
+  ?>
   ```
-  http://localhost/basic-crud-app/
-  ```
+
+### 3. Start XAMPP
+  - Start ``Apache`` and ``MySQL`` in the ``XAMPP Control Panel``.
+
+### 4. Create Database (Optional)
+
+- Open : http://localhost/phpmyadmin/.
+
+- Create a new database : https://github.com/PrashDev425/mysql-lab-12
+
+### 5. Access Your App
+
+- In your browser, go to http://localhost/basic-crud-app/.
 
 ## Security Warnings
 
