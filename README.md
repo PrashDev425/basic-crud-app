@@ -12,6 +12,7 @@
 - [Database Schema](#database-schema)
 - [Project Structure](#project-structure)
 - [Run the Application](#run-the-application)
+- [Tutorials and Resources](#tutorials-and-resources)
 - [Security Warnings](#security-warnings)
 - [License](#license)
 
@@ -154,6 +155,78 @@ Project documentation explaining setup, usage, and security notes.
 ### 5. Access Your App
 
 - In your browser, go to http://localhost/basic-crud-app/.
+
+## Tutorials and Resources
+
+### YouTube Shorts
+
+- **God Tier HTML Programming**:  
+  [Watch on YouTube Shorts](https://youtube.com/shorts/ZtyMdRzvi0w?si=mQT5LJ32MyFIgeZS)  
+
+- **PHP in 60 Seconds: The Basics**:  
+  [Watch on YouTube Shorts](https://youtube.com/shorts/bXTspwWR9uY?si=z2LKwRLCnhBRmc5E)  
+
+- **PHP Basics: Server-Side Rendering HTML**:  
+  [Watch on YouTube Shorts](https://youtube.com/shorts/Z0GsiVQRJJo?si=s29NW2304pp-GbXu)  
+
+### YouTube Videos
+
+- **How to Install XAMPP Server on Windows 11**:  
+  [Watch on YouTube](https://youtu.be/G2VEf-8nepc?si=MPT-w3WZ78PQtkGs)  
+  A step-by-step tutorial on setting up XAMPP for local development.
+
+- **VS Code in 100 Seconds**:  
+  [Watch on YouTube](https://youtu.be/KMxo3T_MTvY)  
+
+- **HTML in 100 Seconds**:  
+  [Watch on YouTube](https://youtu.be/ok-plXXHlWw)  
+
+- **HTML - Introduction - W3Schools.com**:  
+  [Watch on YouTube](https://youtu.be/it1rTvBcfRg?si=b1ik-vYg9hRIrIYk) 
+
+- **HTML - Forms - W3Schools.com**:  
+  [Watch on YouTube](https://youtu.be/VLeERv_dR6Q) 
+
+- **HTML - Tables - W3Schools.com**:  
+  [Watch on YouTube](https://youtu.be/e62D-aayveY)  
+
+- **PHP in 100 Seconds**:  
+  [Watch on YouTube](https://youtu.be/a7_WFUlFS94) 
+
+- **PHP $_GET and $_POST explained**:  
+  [Watch on YouTube](https://youtu.be/6AzAYU8AOhQ)
+
+- **SQL Explained in 100 Seconds**:  
+  [Watch on YouTube](https://youtu.be/zsjvFFKOm3c)  
+
+- **PHP how to connect to MySQL database**:  
+  [Watch on YouTube](https://youtu.be/-1DTYAQ25bY?si=oURYpYtKaG2m-KBG)    
+
+- **PHP how to query MySQL database**:  
+  [Watch on YouTube](https://youtu.be/om_GHl6BrdM)  
+
+- **PHP For Beginners | 3+ Hour Crash Course**:  
+  [Watch on YouTube](https://youtu.be/BUCiSSyIGGU?si=IyPYfca60Cl4C7g2)  
+
+### Useful Links
+
+- **HTML5**: [https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+  The latest major version of the HyperText Markup Language used to structure content on the web. HTML5 introduces semantic elements, multimedia support (audio and video), improved forms, and enhanced APIs for modern web development.
+
+- **Pico.css**: [https://picocss.com/](https://picocss.com/)  
+  A lightweight, open-source CSS framework that provides clean and elegant default styling for HTML elements. Pico.css uses semantic markup and requires no classes for basic styling, making it ideal for minimal and responsive web projects.
+
+- **XAMPP**: [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)  
+  A free and open-source cross-platform web server solution stack package, which includes Apache, MySQL, and PHP.
+
+- **phpMyAdmin**: [https://www.phpmyadmin.net/](https://www.phpmyadmin.net/)  
+  A web-based tool to manage MySQL databases easily.
+
+- **PHP Official Documentation**: [https://www.php.net/docs.php](https://www.php.net/docs.php)  
+  The official documentation for PHP.
+
+- **MySQL Documentation**: [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)  
+  Comprehensive documentation for MySQL database management.
 
 ## Security Warnings
 
